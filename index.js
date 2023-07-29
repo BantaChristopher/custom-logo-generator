@@ -13,7 +13,7 @@ function generateLogo(answers) {
     console.log(answers.shape)
     return `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="300" height="200">
     ${shape}
-    <text x="150" y="125" font-size="60" text-anchor="middle" fill="${answers.textColor}">${answers.text}</text>
+    <text x="150" y="125" font-size="40" text-anchor="middle" fill="${answers.textColor}">${answers.text}</text>
     </svg>`
 }
 
