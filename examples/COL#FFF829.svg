@@ -1,4 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="300" height="200">
     <rect x="75" y="30" width="150" height="150" style="fill:#FFF829"/>
     <text x="150" y="115" font-size="40" text-anchor="middle" fill="Red">COL</text>
-</svg>
+    </svg>
